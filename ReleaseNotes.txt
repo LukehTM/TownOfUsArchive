@@ -1,0 +1,60 @@
+v2.0.1
+
+2021.4.12s support
+
+TownOfUs is merging with Polus.gg! Join the server:
+
+>>>https://discord.gg/polus <<<
+
+v2.0.0
+
+Airship support and more!
+
+View the README for the full list of changes.
+
+v1.2.0
+
+See the changelog for more details!
+
+Support me on Ko-fi: https://ko-fi.com/slushiegoose
+
+v1.1.0
+
+Check the changelog for all changes!
+
+Support me on Ko-fi: https://ko-fi.com/slushiegoose
+
+Please pick the version corresponding to your Among Us version
+
+v1.0.3
+
+Fixes Engineer being able to Fix every sabotage
+Fixes the Investigator being able to revive people voted out (and instead made it an option)
+Fixes Footprints not appearing if a person walks over old footprints
+Fixes graphical glitch where Jester and Lovers simultaneously win
+Stopped players from spawning back into positions from the last game when time is rewound
+Fixes Graphical Bug of Time Master's name not being blue in Meetings
+Fixed Medbay Scan not working for custom colours
+
+v1.0.2
+
+Swapper unable to vote
+Mayor Vote Bank ending up negative
+Anonymous Voting not working when Mayor is in a game
+Chats not working in the lobby
+Sheriff desync (I think)
+Buttons being able to be used during meetings
+
+v1.0.1
+
+Fixed launch errors
+
+Please use the Discord Server for any bugs/feature requests
+
+v1.0.0
+
+README
+
+v1.0.0 pre-release
+
+DOESN'T WORK
